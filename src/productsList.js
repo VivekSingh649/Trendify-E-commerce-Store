@@ -1,10 +1,12 @@
+import images from "./assets/assets";
+
 const productLists = [
   {
     id: 1,
     name: "Men V-Neck Polyester PU Coated Raw Edge T-shirt",
     sales_price: 799,
     regular_price: 2499,
-    featured_image: "/src/assets/Mens/product1.1.avif",
+    featured_image: `${images.bannerFirst}`,
     image_gallery: [
       "/src/assets/Mens/product1.2.avif",
       "/src/assets/Mens/product1.3.avif",
@@ -749,3 +751,5 @@ const productLists = [
 ];
 
 export default productLists;
+
+console.log(images.bannerFirst);
