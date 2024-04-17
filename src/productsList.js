@@ -1,17 +1,16 @@
-import images from "./assets/assets";
-
 const productLists = [
   {
     id: 1,
     name: "Men V-Neck Polyester PU Coated Raw Edge T-shirt",
     sales_price: 799,
     regular_price: 2499,
-    featured_image: `${images.bannerFirst}`,
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product1.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product1.2.avif",
-      "/src/assets/Mens/product1.3.avif",
-      "/src/assets/Mens/product1.4.avif",
-      "/src/assets/Mens/product1.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product1.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product1.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product1.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product1.5.avif",
     ],
     description: `
     <h1>PRODUCT DETAILS</h1>
@@ -44,12 +43,13 @@ const productLists = [
     name: "Solid Textured Polo T-Shirts",
     sales_price: 1499,
     regular_price: 2499,
-    featured_image: "/src/assets/Mens/product3.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product3.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product3.2.avif",
-      "/src/assets/Mens/product3.3.avif",
-      "/src/assets/Mens/product3.4.avif",
-      "/src/assets/Mens/product3.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product3.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product3.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product3.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product3.5.avif",
     ],
     description: `<ul>
     <li>Colour: Maroon</li>
@@ -89,12 +89,13 @@ const productLists = [
     name: "Men Navy Blue & Off White Slim Fit Printed Casual Shirt",
     sales_price: 759,
     regular_price: 1999,
-    featured_image: "/src/assets/Mens/product2.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product2.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product2.2.avif",
-      "/src/assets/Mens/product2.3.avif",
-      "/src/assets/Mens/product2.4.avif",
-      "/src/assets/Mens/product2.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product2.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product2.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product2.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product2.5.avif",
     ],
     description: `
     <p>Men Navy blue & Off White abstract printed opaque Casual shirt, has a mandarin collar, button placket, short regular sleeves, curved hem</p>
@@ -160,12 +161,13 @@ const productLists = [
     name: "Men Black Solid Hooded Sweatshirt",
     sales_price: 516,
     regular_price: 1699,
-    featured_image: "/src/assets/Mens/product4.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product4.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product4.2.avif",
-      "/src/assets/Mens/product4.3.avif",
-      "/src/assets/Mens/product4.4.avif",
-      "/src/assets/Mens/product4.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product4.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product4.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product4.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product4.5.avif",
     ],
     description: `<p>Black solid sweatshirt, has a hood, long sleeves, straight hem</p>
 
@@ -205,12 +207,13 @@ const productLists = [
     name: "Men Blue Sweatshirt",
     sales_price: 1049,
     regular_price: 1599,
-    featured_image: "/src/assets/Mens/product5.1.jpg",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product5.1.jpg",
     image_gallery: [
-      "/src/assets/Mens/product5.2.jpg",
-      "/src/assets/Mens/product5.3.jpg",
-      "/src/assets/Mens/product5.4.jpg",
-      "/src/assets/Mens/product5.5.jpg",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product5.2.jpg",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product5.3.jpg",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product5.4.jpg",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product5.5.jpg",
     ],
     description: `<p>Black solid sweatshirt, has a hood, long sleeves, straight hem</p>
 
@@ -250,12 +253,13 @@ const productLists = [
     name: "Men Olive Green Regular Fit Solid Trousers",
     sales_price: 649,
     regular_price: 1299,
-    featured_image: "/src/assets/Mens/product6.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product6.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product6.2.avif",
-      "/src/assets/Mens/product6.3.avif",
-      "/src/assets/Mens/product6.4.avif",
-      "/src/assets/Mens/product6.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product6.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product6.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product6.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product6.5.avif",
     ],
     description: `<p>Black solid sweatshirt, has a hood, long sleeves, straight hem</p>
 
@@ -295,12 +299,13 @@ const productLists = [
     name: "Men Skinny Fit Light Fade Stretchable Jeans",
     sales_price: 899,
     regular_price: 2499,
-    featured_image: "/src/assets/Mens/product7.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product7.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product7.2.avif",
-      "/src/assets/Mens/product7.3.avif",
-      "/src/assets/Mens/product7.4.avif",
-      "/src/assets/Mens/product7.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product7.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product7.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product7.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product7.5.avif",
     ],
     description: `<p>Black solid sweatshirt, has a hood, long sleeves, straight hem</p>
 
@@ -340,12 +345,13 @@ const productLists = [
     name: "Spread Collar Denim Truckers Jacket",
     sales_price: 1934,
     regular_price: 4299,
-    featured_image: "/src/assets/Mens/product8.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product8.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product8.2.avif",
-      "/src/assets/Mens/product8.3.avif",
-      "/src/assets/Mens/product8.4.avif",
-      "/src/assets/Mens/product8.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product8.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product8.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product8.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product8.5.avif",
     ],
     description: `<p>Black solid sweatshirt, has a hood, long sleeves, straight hem</p>
 
@@ -385,12 +391,13 @@ const productLists = [
     name: "Floral Embroidered Panelled Kurta With Trousers & Dupatta",
     sales_price: 1599,
     regular_price: 6999,
-    featured_image: "/src/assets/Mens/product9.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product9.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product9.2.avif",
-      "/src/assets/Mens/product9.3.avif",
-      "/src/assets/Mens/product9.4.avif",
-      "/src/assets/Mens/product9.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product9.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product9.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product9.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product9.5.avif",
     ],
     description: `
     <p>Olive green embroidered kurta with trousers with dupatta</p>
@@ -438,12 +445,13 @@ const productLists = [
     name: "Floral Printed Straight Kurta with Trousers & Dupatta",
     sales_price: 850,
     regular_price: 3699,
-    featured_image: "/src/assets/Mens/product10.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product10.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product10.2.avif",
-      "/src/assets/Mens/product10.3.avif",
-      "/src/assets/Mens/product10.4.avif",
-      "/src/assets/Mens/product10.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product10.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product10.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product10.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product10.5.avif",
     ],
     description: `
     <p>Olive green embroidered kurta with trousers with dupatta</p>
@@ -491,12 +499,13 @@ const productLists = [
     name: "Abstract Printed Thread Work Kurta With Trousers & Dupatta",
     sales_price: 869,
     regular_price: 4345,
-    featured_image: "/src/assets/Mens/product11.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product11.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product11.2.avif",
-      "/src/assets/Mens/product11.3.avif",
-      "/src/assets/Mens/product11.4.avif",
-      "/src/assets/Mens/product11.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product11.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product11.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product11.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product11.5.avif",
     ],
     description: `
     <p>Olive green embroidered kurta with trousers with dupatta</p>
@@ -544,12 +553,13 @@ const productLists = [
     name: "Floral Printed Embroiderd Kurta With Trouser Dupatta",
     sales_price: 1469,
     regular_price: 5249,
-    featured_image: "/src/assets/Mens/product12.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product12.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product12.2.avif",
-      "/src/assets/Mens/product12.3.avif",
-      "/src/assets/Mens/product12.4.avif",
-      "/src/assets/Mens/product12.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product12.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product12.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product12.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product12.5.avif",
     ],
     description: `
     <p>Olive green embroidered kurta with trousers with dupatta</p>
@@ -597,12 +607,13 @@ const productLists = [
     name: "Men White Solid Gamescape Sneakers",
     sales_price: 1199,
     regular_price: 4799,
-    featured_image: "/src/assets/Mens/product13.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product13.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product13.2.avif",
-      "/src/assets/Mens/product13.3.avif",
-      "/src/assets/Mens/product13.4.avif",
-      "/src/assets/Mens/product13.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product13.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product13.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product13.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product13.5.avif",
     ],
     description: `
     <p>Your casually cool wardrobe gets a fresh new look with the HRX Sneaker from Gamescape collection. Bring style to your Active Lifestyle with Great combination of Design, comfort & Active Fashion</p>
@@ -636,12 +647,13 @@ const productLists = [
     name: "Men White And Blue Lightweight Sneakers",
     sales_price: 849,
     regular_price: 2999,
-    featured_image: "/src/assets/Mens/product14.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product14.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product14.2.avif",
-      "/src/assets/Mens/product14.3.avif",
-      "/src/assets/Mens/product14.4.avif",
-      "/src/assets/Mens/product14.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product14.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product14.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product14.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product14.5.avif",
     ],
     description: `
     <p>Your casually cool wardrobe gets a fresh new look with the HRX Sneaker from Gamescape collection. Bring style to your Active Lifestyle with Great combination of Design, comfort & Active Fashion</p>
@@ -675,12 +687,13 @@ const productLists = [
     name: "Men White & Blue Perforations Lightweight Comfort Insole Sneakers",
     sales_price: 849,
     regular_price: 2999,
-    featured_image: "/src/assets/Mens/product15.1.jpg",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product15.1.jpg",
     image_gallery: [
-      "/src/assets/Mens/product15.2.avif",
-      "/src/assets/Mens/product15.3.avif",
-      "/src/assets/Mens/product15.4.avif",
-      "/src/assets/Mens/product15.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product15.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product15.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product15.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product15.5.avif",
     ],
     description: `
     <p>Your casually cool wardrobe gets a fresh new look with the HRX Sneaker from Gamescape collection. Bring style to your Active Lifestyle with Great combination of Design, comfort & Active Fashion</p>
@@ -714,12 +727,13 @@ const productLists = [
     name: "Men Off-White Perforated Lace-Up Sneakers",
     sales_price: 1279,
     regular_price: 3999,
-    featured_image: "/src/assets/Mens/product16.1.avif",
+    featured_image:
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product16.1.avif",
     image_gallery: [
-      "/src/assets/Mens/product16.2.avif",
-      "/src/assets/Mens/product16.3.avif",
-      "/src/assets/Mens/product16.4.avif",
-      "/src/assets/Mens/product16.5.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product16.2.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product16.3.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product16.4.avif",
+      "https://raw.githubusercontent.com/VivekSingh649/Trendify-E-commerce-Store/main/src/assets/Mens/product16.5.avif",
     ],
     description: `
     <p>Your casually cool wardrobe gets a fresh new look with the HRX Sneaker from Gamescape collection. Bring style to your Active Lifestyle with Great combination of Design, comfort & Active Fashion</p>
@@ -751,5 +765,3 @@ const productLists = [
 ];
 
 export default productLists;
-
-console.log(images.bannerFirst);
